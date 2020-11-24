@@ -91,7 +91,7 @@ endif::[]
 
 {firstName}:: Guillaume
 
-{group} #:: 3A
+{group} :: 3A
 
 //------------------------------------ 
 == {requirements}
